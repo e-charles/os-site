@@ -1,0 +1,11 @@
+{
+  "name": "os-site",
+  "version": "1.0.0",
+  "description": "Operating System Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evenson Charles",
+  "license": "MIT"
+}
